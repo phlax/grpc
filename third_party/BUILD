@@ -1,4 +1,4 @@
-load("@bazel_skylib//rules:common_settings.bzl", "bool_flag", "label_flag")
+load("@bazel_skylib//rules:common_settings.bzl", "bool_flag")
 
 exports_files([
     "gtest.BUILD",
